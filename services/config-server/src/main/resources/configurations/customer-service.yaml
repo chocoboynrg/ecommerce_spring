@@ -1,0 +1,10 @@
+spring:
+  mongodb:
+    username: chocoboynrg
+    password: Icecreamgirl1443
+    host: localhost
+    port: 27017
+    database: customer
+    authentication-database: admin
+server:
+  port: 8090
